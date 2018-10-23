@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultBatchTarget
+  Version="1"
+  Comment="New Batch Target"
+  Guid="9162df25-61ce-43a7-9bfe-d0b928ec0e5c">
+  <Targets>
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="clean xhtml"
+      Type="Clean XHTML"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="dita"
+      Type="DITA"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="eclipse"
+      Type="Eclipse Help"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="ePub"
+      Type="EPUB"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="tripane"
+      Type="HTML5"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="mobile"
+      Type="WebHelp Mobile"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="MyDotNetHelp"
+      Type="DotNet Help"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="MyFrameMaker"
+      Type="FrameMaker"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="MyHtmlHelp"
+      Type="HTML Help"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="MyMSWord"
+      Type="Word"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="MyPDF"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="MyWebHelp"
+      Type="WebHelp"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="MyWebHelpPlus"
+      Type="WebHelp Plus"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="MyXHTMLBook"
+      Type="XHTML Book"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="MyXPS"
+      Type="Unsupported Target Type"
+      Build="true" />
+  </Targets>
+</CatapultBatchTarget>
